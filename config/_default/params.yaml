@@ -2,6 +2,7 @@ mainSections:
   - posts
 description: Eureka is a elegant and powerful theme for Hugo.
 
+css: ["static/base.css"]
 repoURL:
 # If it is a Github repo, leave blank
 repoEditURL:
@@ -11,7 +12,7 @@ dateFormat:
 titleSeparator:
 
 # Options: auto, light and dark. Default is auto.
-colorScheme: dark
+colorScheme: light
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person

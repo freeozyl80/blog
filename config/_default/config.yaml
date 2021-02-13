@@ -1,4 +1,4 @@
-baseURL: https://www.seconds.zone/blog/
+baseURL: /
 title: N秒的空间
 
 # Comment when installing using Hugo Modules
@@ -6,14 +6,14 @@ theme: eureka
 # Uncomment when installing using Hugo Modules
 # theme: github.com/wangchucheng/hugo-eureka
 
-paginate: 3
+paginate: 8 #每页多少个
 copyright: >
-  &copy; 2021 <a href="https://www.seconds.zone">C. JaphyZhang</a> and <a
-  href="https://www.seconds.zone">R. Zhang</a>
+  &copy; 2021 <a href="https://www.seconds.zone">C. JaphyZhang</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
 
+enableInlineShortcodes: true
 defaultContentLanguage: zh
 hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false

@@ -2,29 +2,27 @@
 title: Experiences
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: 打工人生涯
     organization:
-      name: Example Organization 1
+      name: Baidu -> Tencent -> Keep
       url: https://example.org
-    dates: '2019 - Present'
-    location: Country
+    dates: '2015 - Present'
+    location: China
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+      耕耘代码
 
-      - Suspendisse lacinia mauris a laoreet vehicula.
-
-      - Aenean tincidunt enim vitae ante blandit tempor.
-
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
-      
-  - title: Example Role 2
+  - title: Be Happhy 的校园生活
     organization:
-      name: Example Organization 2
-      url: https://example.org
-    dates: '2017 - 2019'
-    location: Country
+      name: TJU
+    dates: '2011 - 2015'
+    location: Tianjin
     writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
+      两段不同寻常的经历吧
+
+      - 天外天的启蒙社团
+
+      - 天行健的背包行走
+
 
 weight: 3
 widget:

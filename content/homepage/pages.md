@@ -1,5 +1,5 @@
 ---
-title: Pages
+title: 历史文章
 draft: false
 # Section you want to display
 section: posts
