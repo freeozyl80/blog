@@ -3,7 +3,7 @@ title: Japhy
 draft: false
 role: Programmer,Body builder
 avatar: img/avatar1.jpg
-bio: 哪有什么天生如此，知识我们天坚持
+bio: 哪有什么天生如此，只是我们天坚持
 organization:
   name: Keep(ex:Tencent && Baidu)
   url: https://www.keep.com
@@ -52,4 +52,4 @@ widget:
 
 ## 我的微信公众号  
 
-![avatar](/img/qrcode.bmp)
+![avatar](img/qrcode.bmp)
