@@ -2,8 +2,8 @@
 title: Vintage
 draft: false
 slogan: That's all
-imgLeft: img/footer-bg1.jpg
-imgRight: img/footer-bg2.jpg
+imgLeft: img/life-1.jpg
+imgRight: img/life-2.jpg
 
 weight: 4
 widget:

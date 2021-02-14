@@ -2,7 +2,7 @@
 title: Japhy
 draft: false
 role: Programmer,Body builder
-avatar: /img/avatar1.jpg
+avatar: img/avatar1.jpg
 bio: 哪有什么天生如此，知识我们天坚持
 organization:
   name: Keep(ex:Tencent && Baidu)
