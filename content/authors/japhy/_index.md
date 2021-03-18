@@ -2,7 +2,7 @@
 title: JaphyZhang
 role: Example Role
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: 没啥可介绍的
 organization:
   name: Example Organization
   url: https://example.com/
