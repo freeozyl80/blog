@@ -131,3 +131,34 @@ web3.0
     https://github.com/microsoft/applicationinsights-js 看下
     Time to Airbnb Interactive
     Page Performance Score
+
+### 低代码平台
+
+ - 调试工具
+   * 组件审查 
+    数据源面板 / schema面板
+
+- 低代码拓展工具
+  * 拓展调试能力
+
+  协议栈： 物料描述协议/页面搭建协议
+  低代码引擎： 入料 编排 渲染 出码  （LowCodeEngine)[https://zhuanlan.zhihu.com/p/487477918]
+  引擎生态：插件 物料 设置器 工具链
+  低代码平台
+
+  低代码调试协议
+
+  域 - 容器 - 单个组件结构 - runtime - overlay
+
+- 多人协作
+
+  CRDT, yjs(多人协作方案)
+  automerge
+
+- 可视化运营活动编辑设计
+ 
+  tmagic editor
+
+  runtime , DSL
+
+  NODE 包起来，created 作为 二次开发的 procode
