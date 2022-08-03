@@ -21,9 +21,12 @@ isa: 指令集
 XPU: 其实处理器的架构并没有改变，它们仍然遵守过去 40 年来一直遵循的规则。变的是芯片的构造方式，它们现在包含大量异构处理器，这些芯片根据各自的任务，对内存和通信进行优化。每个芯片都对处理器性能、优化目标、所需的数据吞吐量以及数据流做出了不同的选择。
 
 ## goole 云原生
+
+```code
                                            Vertex AI
 Firebase        Firestore       BigQuery   Remote PDF
 Cloud Fucntions                 cloud Run
+```
 
 可伸缩性 / 可观察性/ 供应链安全
 
@@ -104,7 +107,6 @@ web3.0
     外部流量：入流量，出流量，每个容器内部 Mesh 代理
 
   3. 微服务，多协议(http,grpc,thrift)
-
     http协议优势：无须解析body,识别不同租户的请求
     grpc (http2)
   
@@ -162,3 +164,30 @@ web3.0
   runtime , DSL
 
   NODE 包起来，created 作为 二次开发的 procode
+
+## 动态模块与浏览器环境下的异步
+
+  Abstract Module Records
+
+  HostResolveImportedModule
+  
+  type module 缺省 defer
+
+  dynamic 动态装载
+
+  top level await (script module 里面也可用用)
+
+
+  ``` code
+  let {x} = await import('./b.js')
+  ```
+
+## 可微编程
+  imgcok.com
+
+## 前端多媒体技术 
+  livestreaming
+  rtmp / rtp    推流
+  TCP(MP4/hls) (FLV,RTMP)  UDP(RTC)  拉流
+
+  动态缓存 + 变速播放
