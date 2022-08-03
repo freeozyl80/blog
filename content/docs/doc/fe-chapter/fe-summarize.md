@@ -191,3 +191,37 @@ web3.0
   TCP(MP4/hls) (FLV,RTMP)  UDP(RTC)  拉流
 
   动态缓存 + 变速播放
+
+## webasm
+
+webassemblity + quick.js 保障js的隔离型
+``` code
+# 层次结构
+
+
+          JSFM context / JSFM plugin
+          框架                        ｜ 三方代码
+          Quick.js
+          webassemblity (js binding 能力)
+日志收集  ｜ meta
+Jsbridge DomApi ServiceWorker Network AppInfo
+宿主 web页面
+Platform: 现代浏览器
+
+```
+
+mainifest 开发标准： webContainer
+
+## 美团买菜 B 端容器化实践
+
+## 浅谈大环境下的前端代码加固
+
+模拟器破解 / 接口破解
+
+混淆 / 加密 / babel / wms / 
+
+## 如何为大型活动的动效交付提效：动效平台
+
+apng / lottie
+
+tinypng upng pngquant kapng-generator
